@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Onur, I'm a med student and software developer, working on medical informatics.
 - 📫 How to reach me onursulak@hacettepe.edu.tr
 
 <!---
