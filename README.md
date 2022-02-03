@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @sulakonur, I'm a doctor
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning CNN
-- 💞️ I’m looking to collaborate on medical image recognition
-- 📫 How to reach me sulakonur@gmail.com
+- 👋 Hi, I’m Onur, I'm a med student and software developer, working on medical informatics.
+- 📫 How to reach me onursulak@hacettepe.edu.tr
 
 <!---
 sulakonur/sulakonur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
